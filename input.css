@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+
+body::selection {
+  background: #3F3F46;
+  color: #FAFAFA;
+}
+
+
+
+/*this is work sans font text*/
+.work-sans-normal {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.work-sans-medium {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.work-sans-semibold {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.work-sans-bold {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+/*this is crimsone text*/
+
+.crimson-text-regular {
+    font-family: 'Crimson Text', serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.crimson-text-semibold {
+    font-family: 'Crimson Text', serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.crimson-text-bold {
+    font-family: 'Crimson Text', serif;
+    font-weight: 700;
+    font-style: normal;
+}
